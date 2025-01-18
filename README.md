@@ -18,7 +18,7 @@ Here you can find some of my works, and also look at my activity 👇
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i113d.ru/testcodes">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i113d.ru/testcodesmya">
   <img height=200 alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimoka113&hide_border=true&hide_progress=false&border_radius=12&include_all_commits=true&title_color=007BFF&text_color=333333&icon_color=66C2FF&bg_color=85,F0F8FF,E6F7FF,CCEDFF,F3F0FF">
 </picture>
 
