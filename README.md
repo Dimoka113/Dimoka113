@@ -4,6 +4,9 @@
 
 Here you can find some of my works, and also look at my activity 👇
 
+Here you can find some of my works, and also look at my activity 👇
+[[Test](https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&hide_border=true&border_radius=12&include_all_commits=true&title_color=b9d2ff&text_color=ffffff&icon_color=00b4ff&bg_color=85,202d39,003773)]
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&hide_border=true&border_radius=12&include_all_commits=true&title_color=007BFF&text_color=FFFFFF&icon_color=0099FF&bg_color=85,000814,001F3F,003366,002244">
   <img align="top" alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&border_radius=12&include_all_commits=true">
