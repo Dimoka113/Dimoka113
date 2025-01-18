@@ -5,9 +5,7 @@
 Here you can find some of my works, and also look at my activity 👇
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="
-    https://github-readme-stats.vercel.app/api?username=Dimoka113&
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dimoka113&
     show_icons=true&
     hide_border=true&
     border_radius=12&
@@ -18,8 +16,7 @@ Here you can find some of my works, and also look at my activity 👇
     bg_color=85,202d39,003773
     ">
   <img align="top" 
-    alt="I see you like the light theme? How are your eyes doing?" 
-    src="https://github-readme-stats.vercel.app/apiusername=Dimoka113&
+    alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/apiusername=Dimoka113&
     show_icons=true&
     hide_border=true&
     border_radius=12&
