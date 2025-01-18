@@ -5,7 +5,7 @@
 Here you can find some of my works, and also look at my activity 👇
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i113d.ru/teststat">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i113d.ru/filnalstat">
   <img align="top" 
     alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&hide_border=true&border_radius=12&include_all_commits=true&title_color=007BFF&text_color=333333&icon_color=66C2FF&bg_color=85,F0F8FF,E6F7FF,CCEDFF,F3F0FF">
 </picture>
