@@ -3,8 +3,18 @@
 **My name is i113d aka Dimoka113**
 
 Here you can find some of my works, and also look at my activity😄
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true"
+    media="(prefers-color-scheme: highcontrast), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true" />
+</picture>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&theme=dark)](https://github.com/Dimoka113/github-readme-stats)
 <!--
 **Dimoka113/Dimoka113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
