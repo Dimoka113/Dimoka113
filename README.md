@@ -5,13 +5,13 @@
 Here you can find some of my works, and also look at my activity😄
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&theme=dark&border_radius=10">
-  <img align="top" alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&border_radius=10">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&theme=dark&border_radius=50">
+  <img align="top" alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true&border_radius=50">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimoka113&hide_progress=false&theme=dark&border_radius=10">
-  <img height=200 align="top" alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimoka113&hide_progress=false&border_radius=10">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimoka113&hide_progress=false&theme=dark&border_radius=50">
+  <img height=200 align="top" alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimoka113&hide_progress=false&border_radius=50">
 </picture>
 
 <!--
