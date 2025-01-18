@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi, 👋 
+**My name is i113d aka Dimoka113**
+Here you can find some of my works, and also look at my activity😄
+[stats](https://github-readme-stats.vercel.app/api?username=Dimoka113&hide=contribs,prs)
 <!--
 **Dimoka113/Dimoka113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
