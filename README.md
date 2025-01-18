@@ -9,6 +9,11 @@ Here you can find some of my works, and also look at my activity😄
   <img alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api?username=Dimoka113&show_icons=true">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dark">
+  <img alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diomka113&hide_progress=false">
+</picture>
+
 <!--
 **Dimoka113/Dimoka113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
