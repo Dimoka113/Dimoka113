@@ -10,8 +10,8 @@ Here you can find some of my works, and also look at my activity😄
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Diomka113&hide_progress=false&theme=dark">
-  <img height=200 align="center" alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diomka113&hide_progress=false">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimoka113&hide_progress=false&theme=dark">
+  <img height=100 align="center" alt="I see you like the light theme? How are your eyes doing?" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimoka113&hide_progress=false">
 </picture>
 
 <!--
